@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 
-class AuthService {
+/*class AuthService {
   //methods
   //sign in anon
   //sign in with email and password
@@ -20,4 +20,4 @@ class AuthService {
       return null;
     }
   }
-}
+}*/
