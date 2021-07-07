@@ -10,8 +10,8 @@ class JobPosts extends StatefulWidget {
 }
 
 class _JobPostsState extends State<JobPosts> {
-  int radioValue;
-  int locationValue;
+  int radioValue =0;
+  int locationValue = 0;
 
   @override
   void initState() {
